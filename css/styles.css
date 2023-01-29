@@ -1,0 +1,219 @@
+/* HOMEPAGE Styling */
+
+body {
+		background-color: #FFFFD2;
+	}
+.homebody{
+	background-image: url("https://images.pexels.com/photos/2847648/pexels-photo-2847648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+	background-size: cover;
+}
+			
+hr 	{
+		border-style: none;
+		border-top-style: dotted;
+		border-color: grey;
+		border-width: 5px;
+		width: 5%;
+	}
+h1	{
+		color: black;
+	}
+h3	{
+		color: black;
+	}
+h2	{
+		color: black;
+	}
+img{
+	background-color: yellow;
+}
+#contactme{
+	text-align: center;
+	margin-top: 15px;
+	font-size: 30px;
+	font-style: italic;
+	color: #285430;
+}
+	
+/* CONTACT ME PAGE STYLING */
+
+.email	{
+			color: red;
+		}
+
+.linkedin	{
+				color: #A75D5D;
+				margin-top: 2px;
+				margin-bottom: 2px;
+				margin-left: 0;
+				display: inline-block;
+				text-align: center;
+			}
+.reachout	{
+				color: black;
+				margin-top: 5px;
+				margin-bottom: 0;
+				text-align: center;
+			}
+.contactmebody	{
+					background-color: #E5E0FF;
+					background-image: url("https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+					background-size: cover;
+				}
+.form	{
+			text-align: center;
+		}
+.linkedinpic{
+	height: 50px;
+	width: 100px;
+}
+.emailpic{
+	height: 50px;
+	width: 75px;
+}
+			
+/* PORTFOLIO INDEX PAGE Styling */
+
+.iportfh{
+	color: #A0C3D2;
+	position: relative;
+	text-align: center;
+}
+.projects{
+	text-align: center;
+}
+.explanation{
+	text-align: center;
+	font-size: 18px;
+	font-family: "Georgia", serif;
+}
+.projectimages{
+	text-align: center;
+	border-top: 50px;
+	font-size: 25px;
+}
+.sd1{
+	height: 200px;
+}
+.hph1{
+	height: 350px;
+}
+.cf1{
+	height: 275px;
+}
+.laser1{
+	height: 350px;
+}
+.academic{
+	text-align: center;
+	border-top: 50px;
+	font-size: 25px;
+}
+.tb1{
+	height: 550px;
+}
+.contactme{
+	display: inline-block;
+	position: absolute;
+	left: 10px;
+	top:0px;
+}
+.home{
+	display:inline-block;
+	position: absolute;
+	top: 0px;
+	right: 10px;
+}
+.portfoliobody{
+	background-image: url("https://images.pexels.com/photos/5706220/pexels-photo-5706220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+	background-size: contain;
+	text-align: center;
+}
+
+/* CSS Code for storagedrive.html */
+.storagedrive{
+	text-align: center;
+	font-size: 25px;
+	color: #1F8A70;
+}
+.storagedrive1{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.storagedrive2{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+/* CSS Code for headphone.html */
+.headphone{
+	text-align: center;
+	font-size: 25px;
+	color: #1F8A70;
+}
+.headphone1{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.headphone2{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.headphone3{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+/* CSS Code for coolingfan.html */
+.coolingfan{
+	text-align: center;
+	font-size: 25px;
+	color: #1F8A70;
+}
+.coolingfan1{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.coolingfan2{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.coolingfan3{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+/* CSS Code for laser.html */
+.laser{
+	text-align: center;
+	font-size: 25px;
+	color: #1F8A70;
+}
+.laser1{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.laser2{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+/* CSS Code for tibia.html */
+.tibia{
+	text-align: center;
+	font-size: 25px;
+	color: #1F8A70;
+}
+.tibia1{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.tibia2{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	background-color: white;
+}
+.tibia3{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
